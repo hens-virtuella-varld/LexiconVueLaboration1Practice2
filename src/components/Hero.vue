@@ -8,11 +8,11 @@
                 class="d-flex justify-content-center align-items-center vh-100 repeat-norepeat"
             >
                 <div class="text-white ms-5 me-5">
-                    <h1 class="mb-3">Vue Leboration 1</h1>
+                    <h1 class="mb-3">Vue laboration 1</h1>
                     <h4 class="mb-3">
                         Hi, I'm Regan, a student in Lexicon's frontend developer
                         program for vocational education(yrkesutbildning).This
-                        is my first leboration for Vue. The purpose of it is to
+                        is my first laboration for Vue. The purpose of it is to
                         show I know how to create a basic componet in Vue.
                     </h4>
                     <h4 class="mb-3">
